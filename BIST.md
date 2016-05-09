@@ -154,7 +154,7 @@ Returns JSON dictionary:
 
 
 ####USER TRANSACTIONS
-POST https://webapi.coinfloor.co.uk:8090/bist/XBT/GBP/user_transactions/
+GET https://webapi.coinfloor.co.uk:8090/bist/XBT/GBP/user_transactions/
 
 Params:
 
